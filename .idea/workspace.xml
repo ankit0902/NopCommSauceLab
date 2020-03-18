@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df50fd9a-8829-4bf0-a9ad-bead1058afdd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtPZuK3gfOoOkTBHT1FR6esmOy" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ankit\IdeaProjects\src\main\java\HmOrange2\src\test\Resources\BrowserDrivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuit.userShouldAbleToRegisterSuccessfully (2)">
+    <configuration name="TestSuit (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HmOrange2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HmOrange1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HmOrange1" />
+      <option name="MAIN_CLASS_NAME" value="HmOrange1.TestSuit" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HmOrange2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HmOrange1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="HmOrange1" />
+      <option name="MAIN_CLASS_NAME" value="HmOrange1.TestSuit" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=True" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbleToRegisterSuccessfully (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HmOrange2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HmOrange1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HmOrange1" />
+      <option name="MAIN_CLASS_NAME" value="HmOrange1.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbleToRegisterSuccessfully (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HmOrange2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HmOrange1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="HmOrange1" />
+      <option name="MAIN_CLASS_NAME" value="HmOrange1.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=false" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbleToRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HmOrange2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HmOrange1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="HmOrange1" />
+      <option name="MAIN_CLASS_NAME" value="HmOrange1.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=True" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbleToRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HmOrange2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HmOrange1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="HmOrange1" />
+      <option name="MAIN_CLASS_NAME" value="HmOrange1.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=True" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbleToRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HmOrange2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HmOrange1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="HmOrange1" />
+      <option name="MAIN_CLASS_NAME" value="HmOrange1.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=True" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbleToRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HmOrange2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HmOrange1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="HmOrange1" />
+      <option name="MAIN_CLASS_NAME" value="HmOrange1.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dwebbrowser=chrome -DSauce=True" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=false" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestSuit (1)" />
+      <item itemvalue="TestNG.TestSuit.userShouldAbleToRegisterSuccessfully (1)" />
+      <item itemvalue="TestNG.TestSuit.userShouldAbleToRegisterSuccessfully" />
+      <item itemvalue="TestNG.TestSuit.userShouldAbleToRegisterSuccessfully (2)" />
+      <item itemvalue="TestNG.TestSuit" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuit.userShouldAbleToRegisterSuccessfully (2)" />
+        <item itemvalue="TestNG.TestSuit" />
+        <item itemvalue="TestNG.TestSuit.userShouldAbleToRegisterSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.userShouldAbleToRegisterSuccessfully (1)" />
+        <item itemvalue="TestNG.TestSuit (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df50fd9a-8829-4bf0-a9ad-bead1058afdd" name="Default Changelist" comment="" />
+      <created>1583758975903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583758975903</updated>
+    </task>
+    <servers />
+  </component>
+</project>
